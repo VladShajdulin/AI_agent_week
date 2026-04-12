@@ -1,2 +1,6 @@
 # JupyterNotebooks
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
+
+# OpenAI API
+.secret
