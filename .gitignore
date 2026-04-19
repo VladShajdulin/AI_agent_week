@@ -5,3 +5,6 @@
 # OpenAI API
 .secret
 .env
+
+# CV
+cvs/
