@@ -7,4 +7,5 @@
 .env
 
 # CV
-cvs/
+cvs/*
+!cvs/.gitkeep
